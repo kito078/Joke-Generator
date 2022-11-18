@@ -1,0 +1,29 @@
+body {
+  background: blueviolet;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.joke {
+  width: 500px;
+  background: #fff;
+  text-align: center;
+  border-radius: 10px;
+  padding: 2rem;
+}
+.joke-header {
+  letter-spacing: 0.1rem;
+}
+
+.btn {
+  border: 0;
+  background: blueviolet;
+  color: #fff;
+  padding: 0.7rem 2rem;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 2rem;
+}
